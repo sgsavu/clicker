@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rdev = "0.5"
+rdev = "0.5.3"
 enigo = "0.0.14"
